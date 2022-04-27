@@ -20,7 +20,7 @@ For the purposes of this Privacy Policy:
 
     Application means the software program provided by the Company downloaded by You on any electronic device, named PakiFlix
 
-    Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to PakiFlix.
+    Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to PakiDrama.
 
     Country refers to: Pakistan
 
